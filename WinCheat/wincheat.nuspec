@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>wincheat</id>
+        <version>1.7.4680.1</version>
+        <title>WinCheat</title>
+        <authors>Alin Constantin</authors>
+        <owners>iggi</owners>
+        <licenseUrl>http://alinconstantin.dtdns.net/webdocs/Gpl.htm</licenseUrl>
+        <projectUrl>http://alinconstantin.dtdns.net/Default.htm/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Pick visible windows with the mouse and see information about them (like MsSpy++ does, but identifying better the window usnder the cursor). Explore the windows hierarchy of the current desktop. Allow to see and modify windows styles. Send/post messages to windows, enable/disable/show/hide them. Capture the text from windows (and yes, this works for password fields on WinNT/Win2000/WinXP). Capture/save window content as bitmap. Magnify a rectangle on screen following the mouse movements.</description>
+        <summary>Pick visible windows with the mouse and see information about them (like MsSpy++ does, but identifying better the window usnder the cursor).</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>spy window hierarchy</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>
