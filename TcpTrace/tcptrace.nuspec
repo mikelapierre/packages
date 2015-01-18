@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>tcptrace</id>
+        <version>0.8.1.717</version>
+        <title>TcpTrace</title>
+        <authors>Simon Fell and Matt Humphrey</authors>
+        <owners>iggi</owners>
+        <licenseUrl>https://raw.githubusercontent.com/iggi131/packages/master/TcpTrace/license.txt</licenseUrl>
+        <projectUrl>http://www.pocketsoap.com/tcptrace/</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/iggi131/packages/master/TcpTrace/icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Basically you use it as a tunnel between your client and server. Start tcptrace.exe and up comes a dialog box asking for local port #, destination server, and destination port # (Ignore the logging options for now) Fill these in, click Ok, and wow are you going to have fun.</description>
+        <summary>Basically you use it as a tunnel between your client and server.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>ip tcp trace</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>
