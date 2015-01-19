@@ -8,6 +8,7 @@
         <owners>iggi</owners>
         <licenseUrl>http://alinconstantin.dtdns.net/webdocs/Gpl.htm</licenseUrl>
         <projectUrl>http://alinconstantin.dtdns.net/Default.htm/</projectUrl>
+        <iconUrl>https://cdn.rawgit.com/TomOne/various/f603614123c7a97735a4c6f46b7e56e7a9f9a8a9/wincheat.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Pick visible windows with the mouse and see information about them (like MsSpy++ does, but identifying better the window usnder the cursor). Explore the windows hierarchy of the current desktop. Allow to see and modify windows styles. Send/post messages to windows, enable/disable/show/hide them. Capture the text from windows (and yes, this works for password fields on WinNT/Win2000/WinXP). Capture/save window content as bitmap. Magnify a rectangle on screen following the mouse movements.</description>
         <summary>Pick visible windows with the mouse and see information about them (like MsSpy++ does, but identifying better the window usnder the cursor).</summary>
@@ -15,6 +16,9 @@
         <copyright />
         <language />
         <tags>spy window hierarchy</tags>
+        <dependencies>
+            <dependency id='vcredist2012' />
+        </dependencies>
     </metadata>
     <files>
         <file src="tools\**" target="tools" />
