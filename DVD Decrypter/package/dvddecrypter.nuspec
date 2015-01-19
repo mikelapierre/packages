@@ -8,13 +8,14 @@
         <owners>iggi</owners>
         <licenseUrl>http://en.wikipedia.org/wiki/Freeware</licenseUrl>
         <projectUrl>http://www.dvddecrypter.org.uk/</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/iggi131/packages/master/DVD%20Decrypter/package/icon.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>DVD Decrypter is a deprecated software application for Microsoft Windows that can create backup disk images of the DVD-Video structure of DVDs. While it was still supported, it could be used to make a copy of any DVD protected with Content Scrambling System (CSS). The program can also record images to disc — functionality that the author has now incorporated into a separate product called ImgBurn. The software also allows a copy of a region-specific DVD to be made region free. It also removes Macrovision content protection, CSS, region codes, and user operation prohibition, but cannot copy DVDs protected with newer systems such as XProtect.</description>
         <summary>DVD Decrypter is a deprecated software application for Microsoft Windows that can create backup disk images of the DVD-Video structure of DVDs.</summary>
         <releaseNotes />
         <copyright />
         <language />
-        <tags>dvd decrypt copy backup</tags>
+        <tags>dvd decrypt copy backup ripper</tags>
     </metadata>
     <files>
         <file src="tools\**" target="tools" />
