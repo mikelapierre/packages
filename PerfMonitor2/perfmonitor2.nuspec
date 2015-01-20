@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>perfmonitor2</id>
+        <version>2.0.4.0</version>
+        <title>PerfMonitor2</title>
+        <authors>CPUID</authors>
+        <owners>iggi</owners>
+        <licenseUrl>https://raw.githubusercontent.com/iggi131/packages/master/PerfMonitor2/license.txt</licenseUrl>
+        <projectUrl>http://www.cpuid.com/softwares/perfmonitor2.html</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/iggi131/packages/master/PerfMonitor2/icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>PerfMonitor2 (PM2) is a processor performance and monitoring tool. It allows to track up to 4 processor-related events choosen in a model-specific list. It succeeds to PerfMonitor, and in addition to that first version, PM2 includes monitoring data, like temperatures and powers.</description>
+        <summary>PerfMonitor2 (PM2) is a processor performance and monitoring tool.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>cpu performance monitoring</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>
