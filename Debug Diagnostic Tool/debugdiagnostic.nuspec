@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>debugdiagnostic</id>
+        <version>2.1.0.7</version>
+        <title>Debug Diagnostic Tool</title>
+        <authors>The DebugDiag 2.0 Team</authors>
+        <owners>iggi</owners>
+        <licenseUrl>https://raw.githubusercontent.com/iggi131/packages/master/Debug%20Diagnostic%20Tool/license.txt</licenseUrl>
+        <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=42933</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/iggi131/packages/master/Debug%20Diagnostic%20Tool/icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The Debug Diagnostic Tool (DebugDiag) is designed to assist in troubleshooting issues such as hangs, slow performance, memory leaks or memory fragmentation, and crashes in any user-mode process. The tool includes built-in analysis rules focused on Internet Information Services (IIS) applications, web data access components, COM+, SharePoint and related Microsoft technologies. Debugdiag 2.0 introduces a new analysis engine host with built-in reporting framework that can be accessed from .NET. This new analysis engine simplifies analysis rule development in .NET.</description>
+        <summary>The Debug Diagnostic Tool (DebugDiag) is designed to assist in troubleshooting issues such as hangs, slow performance, memory leaks or memory fragmentation, and crashes in any user-mode process.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>debug diagnostic analysis troubleshooting</tags>
+        <dependencies>
+            <dependency id='dotnet4.0' />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>
