@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'debugdiagnostic' 'msi' '/quiet' 'http://download.microsoft.com/download/B/4/6/B46E9984-5DF2-4B56-AE32-D60A88C2A6D8/DebugDiagx86.msi' 'http://download.microsoft.com/download/B/4/6/B46E9984-5DF2-4B56-AE32-D60A88C2A6D8/DebugDiagx64.msi'
