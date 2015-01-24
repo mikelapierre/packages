@@ -1,0 +1,8 @@
+License
+
+RawCap is freeware and can be used by anyone, i.e. even commercial use is allowed.
+ You are, however, NOT allowed to: 
+•Re-brand RawCap under a different name or vendor
+•Re-distribute RawCap from a website other than netresec.com
+•Sell RawCap
+•Include RawCap as part of a commercial tool
