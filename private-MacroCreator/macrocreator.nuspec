@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>macrocreator</id>
+        <version>4.1.3</version>
+        <title>Pulover's Macro Creator</title>
+        <authors>Rodolfo U. Batista</authors>
+        <owners>iggi</owners>
+        <projectUrl>http://www.macrocreator.com/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Pulover’s Macro Creator is a Free Automation Tool and Script Generator. It is based on AutoHotkey language and provides users with multiple automation functions, as well as a built-in recorder.</description>
+        <summary>Pulover’s Macro Creator is a Free Automation Tool and Script Generator.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>macro record</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>

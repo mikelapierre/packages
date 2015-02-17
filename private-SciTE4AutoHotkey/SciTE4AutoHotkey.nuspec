@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>scite4autohotkey</id>
+        <version>3.0.06.01</version>
+        <title>SciTE4AutoHotkey</title>
+        <authors>Neil Hodgson, Chris Mallett, Steve Gray (Lexikos), Philippe Lhoste, Rajat, TheGood, ladiko, Ice_Tea, Tuncay, kon</authors>
+        <owners>iggi</owners>
+        <projectUrl>http://fincs.ahk4.net/scite4ahk/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>SciTE4AutoHotkey is a lightweight and easy to use SciTE-based AutoHotkey script editor. It provides: •Syntax highlighting •Calltips (also known as IntelliSense) •AutoComplete •AutoIndent •AutoHotkey help integration •Abbreviations •Editing macros •Interactive debugging •Tools for AutoHotkey scripting •Powerful extension mechanisms</description>
+        <summary>SciTE4AutoHotkey is a lightweight and easy to use SciTE-based AutoHotkey script editor.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>autohotkey syntax highlighting</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>

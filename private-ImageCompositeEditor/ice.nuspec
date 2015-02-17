@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>imagecompositeeditor</id>
+        <version>2.0.2</version>
+        <title>Image Composite Editor</title>
+        <authors>Microsoft Research</authors>
+        <owners>iggi</owners>
+        <projectUrl>http://research.microsoft.com/en-us/um/redmond/projects/ice/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Image Composite Editor (ICE) is an advanced panoramic image stitcher. Given a set of overlapping photographs of a scene shot from a single camera location, the app creates a seamless high-resolution panorama. ICE can also create a panorama from a panning video, including stop-motion action overlaid on the background. Finished panoramas can be shared and viewed in 3D on the Photosynth web site, or saved in a variety of image formats.</description>
+        <summary>Image Composite Editor (ICE) is an advanced panoramic image stitcher.</summary>
+        <releaseNotes />
+        <copyright />
+        <language />
+        <tags>image stitch panorama</tags>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
+</package>
