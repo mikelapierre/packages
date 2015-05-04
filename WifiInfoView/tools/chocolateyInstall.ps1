@@ -1,4 +1,4 @@
-﻿$packageName = 'wifiinfoview'
+﻿$packageName = 'nirsoftwifiinfoview'
 $url = 'http://www.nirsoft.net/utils/wifiinfoview.zip'
 $environmentVariableTarget = 'User'
 
