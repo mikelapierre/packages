@@ -1,0 +1,2 @@
+Copyright www.depicus.com (Brian Slack) 1966-2005
+Price - Wake On Lan Command Line is free.
