@@ -17,7 +17,6 @@
         <language />
         <tags>debug diagnostic analysis troubleshooting</tags>
         <dependencies>
-            <dependency id='dotnet4.0' />
         </dependencies>
     </metadata>
     <files>
